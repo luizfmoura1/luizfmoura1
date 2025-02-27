@@ -1,5 +1,14 @@
-## Hi there 👋
+## Luiz Felipe👨🏽‍💻
 
+## AI engineer
+
+Estudante de Ciência de Dados e Inteligência Artificial no IBMEC-BH, com ênfase na aplicação de modelos LLMs. Comprometido em estudar, explorar e utilizar GenAI para automação de processos e criação de soluções inovadoras.
+
+💻 Data & AI Scientist | LLMOps & GenAI | AI Agents | Crew AI | LangChain | Multi-Agents | Machine Learning | Python
+🚀 Criador de soluções inovadoras utilizando IA
+🔧 Tech Stack: Python, PostgreSQL, LangChain, CrewAI, MongoDB
+
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/luizfelipemoura/)
 <!--
 **luizfmoura1/luizfmoura1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
