@@ -8,7 +8,6 @@ Estudante de Ciência de Dados e Inteligência Artificial no IBMEC-BH, com foco 
 📚 **LLMOps & GenAI**  
 🤖 **AI Agents | Multi-Agents**  
 🛠 **Crew AI | LangChain**
-
 📊 **Python**   
   
 <!--
